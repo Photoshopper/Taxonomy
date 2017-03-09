@@ -1,7 +1,7 @@
 # Taxonomy module for AsgardCMS 2
 
 Module allow you to create vocabularies and terms. You can use it for creation categories, tags, and so on.  
-Module uses my own vendor package "alex/image" for uploading images.
+Module requires my own vendor package "alex/image" for uploading images.
 
 ## Installation
 
